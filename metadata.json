@@ -1,0 +1,5 @@
+{
+  "name": "Background Changer AI",
+  "description": "Change the background of any image using AI. Upload an image and describe the new background.",
+  "requestFramePermissions": []
+}
